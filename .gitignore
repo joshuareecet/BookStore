@@ -1,3 +1,5 @@
 config.json
 dump.json
 __pycache__
+web/__pycache__
+user_library/__pycache__
