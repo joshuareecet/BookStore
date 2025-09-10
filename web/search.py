@@ -6,7 +6,6 @@ import requests
 import json
 from pathlib import Path
 
-
 #Defining constants
 ROOT_DIR = Path(__file__).parent.parent
 print(ROOT_DIR)
@@ -167,6 +166,7 @@ def conductSearch():
   path.write_text(json.dumps(search_result, indent = 4))
 #  with open("dump.json","w") as myDump:
 #   myDump.write(json.dumps(search_result, indent = 4))
+  return search_result
 
 if __name__ == "__main__":
   conductSearch()
