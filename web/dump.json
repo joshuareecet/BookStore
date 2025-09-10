@@ -1,0 +1,223 @@
+{
+    "kind": "books#volumes",
+    "totalItems": 3,
+    "items": [
+        {
+            "kind": "books#volume",
+            "id": "PRfw0AEACAAJ",
+            "etag": "/MYWg9ds7io",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/PRfw0AEACAAJ",
+            "volumeInfo": {
+                "title": "Hell Difficulty Tutorial (Light Novel) Vol. 1",
+                "authors": [
+                    "Cerim"
+                ],
+                "publisher": "Vault Books",
+                "publishedDate": "2025-05-27",
+                "description": "Solo Leveling meets Sword Art Online in the bestselling LitRPG Fantasy Action Adventure series HELL DIFFICULTY TUTORIAL \u2013 in print and as a Light Novel for the very first time with HELL DIFFICULTY TUTORIAL (Light Novel) Vol. 1 from Vault Books! Where others see doom, he sees opportunity. Hell Difficulty? More like a chance to thrive. Nathaniel's bus ride was supposed to be just another boring commute. Wrong. Now, he, 23 fellow passengers, and a corgi named Biscuit, are stuck in a \"Hell Difficulty\" Tutorial, battling monsters and leveling up to survive. Easy difficulty, anyone can handle. Normal difficulty, you've got to put up a fight to get by. Hard difficulty is where only the tough ones last. And Hell? That's where you have to be a bit out of your mind! With his terrifying talent for mana manipulation, Nathaniel decides to invest every stat point into mana. Attribute imbalance be damned. It will either kill him before the monsters and his enemies can, or turn him into one of the most powerful beings within the system. Never underestimate the guy who has so much Mana it should kill him... Follow Nathaniel's crazy journey as he takes on nightmarish foes and teams up with a far-from-normal group of bus passengers in this action-packed LitRPG Adventure. He must outsmart the odds, survive, and emerge stronger than anyone else! Hell Difficulty Tutorial (Light Novel) Volumes 1-3 narrative corresponds to Hell Difficulty Tutorial, Book 1 eBook from Aethon Books. With more than 10 million views as a web serial, the Light Novel edition from Vault Books is perfect for fans of The Primal Hunter, Defiance of the Fall, Apocalypse: Generic System, Path of Ascension, The Calamitous Bob, System Change, Stitched Worlds, The Tutorial is Too Hard (Korean manga webcomic),ReStart (Level Up series #1), Dungeon Crawler Carl, Tower of Power series, System Universe series, Master Hunter K, Traveller's Trial, Apocalypse: Reborn, Step 1: Limbo: A LitRPG Adventure (A Gamer's Guide to Beating the Tutorial) , The Advance Player of the Tutorial Tower, SOLO LEVELING, Limit Breaker, Second Coming of Gluttony, Completionist Chronicles, Modern Awakening, Only I am a Necromancer, A Snake's Life, Full Murder HOBO, Where It All Began, Primeverse, The Gam3, Fullmetal Alchemist, Beyblade (Viz), Overlord, Undead Unluck (Viz), Cautious Hero: The Hero Is Overpowered but Overly Cautious (light novel \u2013 Yen Press), Shangri-la Frontier (anime and manga), Kaiju No.8 (Viz), Rising of the Shield Hero (light novel series and anime), The Legendary Moonlight Sculptor (light novel series and anime), Overgeared, Leveling With the Gods, The Tutorial Tower is too Tough, Tutorial Tower, and The Player of Games (Book 2 in The Culture series) by Iain M. Banks. About Light Novels from Vault Books: All Vault Books Light Novels are based on mega-bestselling LitRPG and Progression Fantasy eBooks published by trailblazing digital Science Fiction and Fantasy publisher, Aethon Books. If you\u2019ve read and enjoyed the Aethon eBooks, Vault Books light novels have kept everything you love about those eBooks \u2013 and upped the game. By dividing each original Aethon eBook into two to four Light Novel volumes, Vault endeavors to enhance the reading experience by providing an easily-digestible print edition with illustrations and design details. Every Vault light novel volume is produced in conjunction with and approved by the author/creator of the bestselling eBook. Each Vault light novel volume contains seven original, exclusive illustrations \u2013 in both full color and black and white - from some of the most talented manga artists and illustrators from around the world, while every page of the book is meticulously designed and embellished with never-before-seen elements taken directly from the narrative heart of the story. If you\u2019re already an existing fan and you\u2019ve devoured the eBook, now is the time to grab the light novels in print format and widely distributed for the very first time! And if you\u2019ve never read any of the bestselling eBooks, this is your opportunity to dive into the intersecting world of Light Novels, LitRPG, Progression Fantasy, Isekai, and Manga! LIGHT NOVELS FROM VAULT BOOKS: 2024 The Primal Hunter (Light Novel) Vol. 1 My Best Friend is an Eldritch Horror (Light Novel) Vol. 1 2025 Mark of the Fool (Light Novel) Vol. 1 Path of Ascension (Light Novel) Vol. 1 Battle Mage Farmer (Light Novel) Vol. 1 Road to Mastery (Light Novel) Vol. 1 Hell Difficulty Tutorial (Light Novel) Vol. 1 Reborn as a Demonic Tree (Light Novel) Vol. 1 The Primal Hunter (Light Novel) Vol. 2, Vol. 3 My Best Friend is an Eldritch Horror (Light Novel) Vol. 2, Vol. 3",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "1638492735"
+                    },
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9781638492733"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": false
+                },
+                "pageCount": 0,
+                "printType": "BOOK",
+                "categories": [
+                    "Fiction"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "preview-1.0.0",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=PRfw0AEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=PRfw0AEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.co.uk/books?id=PRfw0AEACAAJ&dq=intitle:Hell+difficulty+Tutorial&hl=&cd=1&source=gbs_api",
+                "infoLink": "http://books.google.co.uk/books?id=PRfw0AEACAAJ&dq=intitle:Hell+difficulty+Tutorial&hl=&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Hell_Difficulty_Tutorial_Light_Novel_Vol.html?hl=&id=PRfw0AEACAAJ"
+            },
+            "saleInfo": {
+                "country": "GB",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "GB",
+                "viewability": "NO_PAGES",
+                "embeddable": false,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=PRfw0AEACAAJ&hl=&source=gbs_api",
+                "accessViewStatus": "NONE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "And if you\u2019ve never read any of the bestselling eBooks, this is your opportunity to dive into the intersecting world of Light Novels, LitRPG, Progression Fantasy, Isekai, and Manga!"
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "ITm10AEACAAJ",
+            "etag": "GNS/hKf4mP4",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/ITm10AEACAAJ",
+            "volumeInfo": {
+                "title": "Hell Difficulty Tutorial",
+                "subtitle": "A LitRPG Adventure",
+                "authors": [
+                    "Cerim"
+                ],
+                "publisher": "Independently Published",
+                "publishedDate": "2024-05-14",
+                "description": "Where others see doom, he sees opportunity. Hell Difficulty? More like a chance to thrive. Nathaniel's bus ride was supposed to be just another boring commute. Wrong. Now, he, 23 fellow passengers, and a corgi named Biscuit, are stuck in a \"Hell Difficulty\" Tutorial, battling monsters and leveling up to survive. Easy difficulty, anyone can handle. Normal difficulty, you've got to put up a fight to get by. Hard difficulty is where only the tough ones last. And Hell? That's where you have to be a bit out of your mind! With his terrifying talent for mana manipulation, Nathaniel decides to invest every stat point into mana. Attribute imbalance be damned. It will either kill him before the monsters and his enemies can, or turn him into one of the most powerful beings within the system. Never underestimate the guy who has so much Mana it should kill him... Follow Nathaniel's crazy journey as he takes on nightmarish foes and teams up with a far-from-normal group of bus passengers in this action-packed LitRPG Adventure. He must outsmart the odds, survive, and emerge stronger than anyone else! With more than 10 million views as a web serial, this definitive version is perfect for fans of The Primal Hunter, Defiance of the Fall, and Apocalypse: Generic System. Grab your copy today!",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9798325011276"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": false
+                },
+                "pageCount": 0,
+                "printType": "BOOK",
+                "categories": [
+                    "Fiction"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "preview-1.0.0",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=ITm10AEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=ITm10AEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.co.uk/books?id=ITm10AEACAAJ&dq=intitle:Hell+difficulty+Tutorial&hl=&cd=2&source=gbs_api",
+                "infoLink": "http://books.google.co.uk/books?id=ITm10AEACAAJ&dq=intitle:Hell+difficulty+Tutorial&hl=&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Hell_Difficulty_Tutorial.html?hl=&id=ITm10AEACAAJ"
+            },
+            "saleInfo": {
+                "country": "GB",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "GB",
+                "viewability": "NO_PAGES",
+                "embeddable": false,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=ITm10AEACAAJ&hl=&source=gbs_api",
+                "accessViewStatus": "NONE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "Nathaniel&#39;s bus ride was supposed to be just another boring commute. Wrong. Now, he, 23 fellow passengers, and a corgi named Biscuit, are stuck in a &quot;Hell Difficulty&quot; Tutorial, battling monsters and leveling up to survive."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "J35q0QEACAAJ",
+            "etag": "wxWTVcm5SnM",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/J35q0QEACAAJ",
+            "volumeInfo": {
+                "title": "Hell Difficulty Tutorial (Light Novel) Vol. 2",
+                "authors": [
+                    "Cerim"
+                ],
+                "publisher": "Vault Books",
+                "publishedDate": "2026-03-17",
+                "description": "Solo Leveling meets Sword Art Online in the bestselling LitRPG Fantasy Action Adventure series HELL DIFFICULTY TUTORIAL \u2013 in print and as a Light Novel for the very first time with HELL DIFFICULTY TUTORIAL (Light Novel) Vol. 2 from Vault Books! Where others see doom, he sees opportunity. Hell Difficulty? More like a chance to thrive. Trapped in a world ruled by stats, monsters, and logic, Nathaniel Gwyn is still playing on Hell Difficulty\u2014and it\u2019s a game he intends to win. Thrown from an ordinary bus ride into a deadly new world, Nathaniel and his group of survivors continue to navigate brutal creatures, portals to strange lands, and fractured alliances. As others cling to hope and fear, he continues to focus on mana manipulation and embraces the chaos with cold strategy, carving his path forward through sheer willpower. In a system where hesitation means death, the only way out is through\u2014and Nathaniel plans to master it one step at a time. Hell Difficulty Tutorial (Light Novel) Volumes 1-3 narrative corresponds to Hell Difficulty Tutorial, Book 1 eBook from Aethon Books. With more than 10 million views as a web serial, the Light Novel edition from Vault Books is perfect for fans of The Primal Hunter, Defiance of the Fall, Apocalypse: Generic System, Path of Ascension, The Calamitous Bob, System Change, Stitched Worlds, The Tutorial is Too Hard (Korean manga webcomic),ReStart (Level Up series #1), Dungeon Crawler Carl, Tower of Power series, System Universe series, Master Hunter K, Traveller's Trial, Apocalypse: Reborn, Step 1: Limbo: A LitRPG Adventure (A Gamer's Guide to Beating the Tutorial) , The Advance Player of the Tutorial Tower, SOLO LEVELING, Limit Breaker, Second Coming of Gluttony, Completionist Chronicles, Modern Awakening, Only I am a Necromancer, A Snake's Life, Full Murder HOBO, Where It All Began, Primeverse, The Gam3, Fullmetal Alchemist, Beyblade (Viz), Overlord, Undead Unluck (Viz), Cautious Hero: The Hero Is Overpowered but Overly Cautious (light novel \u2013 Yen Press), Shangri-la Frontier (anime and manga), Kaiju No.8 (Viz), Rising of the Shield Hero (light novel series and anime), The Legendary Moonlight Sculptor (light novel series and anime), Overgeared, Leveling With the Gods, The Tutorial Tower is too Tough, Tutorial Tower, and The Player of Games (Book 2 in The Culture series) by Iain M. Banks. About Light Novels from Vault Books: All Vault Books Light Novels are based on mega-bestselling LitRPG and Progression Fantasy eBooks published by trailblazing digital Science Fiction and Fantasy publisher, Aethon Books. If you\u2019ve read and enjoyed the Aethon eBooks, Vault Books light novels have kept everything you love about those eBooks \u2013 and upped the game. By dividing each original Aethon eBook into two to four Light Novel volumes, Vault endeavors to enhance the reading experience by providing an easily-digestible print edition with illustrations and design details. Every Vault light novel volume is produced in conjunction with and approved by the author/creator of the bestselling eBook. Each Vault light novel volume contains seven original, exclusive illustrations \u2013 in both full color and black and white - from some of the most talented manga artists and illustrators from around the world, while every page of the book is meticulously designed and embellished with never-before-seen elements taken directly from the narrative heart of the story. If you\u2019re already an existing fan and you\u2019ve devoured the eBook, now is the time to grab the light novels in print format and widely distributed for the very first time! And if you\u2019ve never read any of the bestselling eBooks, this is your opportunity to dive into the intersecting world of Light Novels, LitRPG, Progression Fantasy, Isekai, and Manga!",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "163849326X"
+                    },
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9781638493266"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": false
+                },
+                "pageCount": 0,
+                "printType": "BOOK",
+                "categories": [
+                    "Comics & Graphic Novels"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "preview-1.0.0",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "comicsContent": true,
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=J35q0QEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=J35q0QEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.co.uk/books?id=J35q0QEACAAJ&dq=intitle:Hell+difficulty+Tutorial&hl=&cd=3&source=gbs_api",
+                "infoLink": "http://books.google.co.uk/books?id=J35q0QEACAAJ&dq=intitle:Hell+difficulty+Tutorial&hl=&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Hell_Difficulty_Tutorial_Light_Novel_Vol.html?hl=&id=J35q0QEACAAJ"
+            },
+            "saleInfo": {
+                "country": "GB",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "GB",
+                "viewability": "NO_PAGES",
+                "embeddable": false,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=J35q0QEACAAJ&hl=&source=gbs_api",
+                "accessViewStatus": "NONE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "And if you\u2019ve never read any of the bestselling eBooks, this is your opportunity to dive into the intersecting world of Light Novels, LitRPG, Progression Fantasy, Isekai, and Manga!"
+            }
+        }
+    ]
+}
