@@ -1,15 +1,17 @@
 
 class Book():
-  def __init__(self, author=None, title=None, publisher=None, description=None, kind=None, language=None):
-    self._author = author
+  def __init__(self, authors=None, title=None, publisher=None, description=None, kind=None, language=None, categories=None, thumbnail = None):
+    self._authors = authors
     self._title = title
     self._publisher = publisher
     self._description = description #description of the book
     self._kind = kind #kind: book / magazine
     self._language = language
+    self._categories = categories
+    self._thumbnail = thumbnail
 
-  def author(self):
-    return self._author
+  def authors(self):
+    return self._authors
   
   def title(self):
     return self._title
@@ -30,15 +32,24 @@ class Book():
 class BookLibrary():
   def __init__(self):
     self._books = []
+    self._size = 0
+  
+  def books(self):
+    return self._books
+
+  def size(self):
+    return self._size
   
   def addBook(self, book: Book):
     self._books.append(book)
+    self._size += 1
 
   def removeBook(self, removal_method, target):
     removal_method = getAttribute()
     for book in self._books:
       if getattr(book, removal_method) == target:
-        return book
+        self._books.remove(book)
+        self._size -= 1
     raise ValueError("Book does not exist in the user's library")
 
   def findBook(self, book):
