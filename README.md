@@ -1,6 +1,6 @@
 # BookStore
 
-BookStore is a book tracking application with google books integration.
+BookStore is a book tracking application with google books integration. Currently postponed for future integration into BookSummariser.
 
 ## Key Planned Features
 - **Google Books Integration**
